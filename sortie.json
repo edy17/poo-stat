@@ -1,0 +1,585 @@
+{
+ "Nombre d_etudiants Par Groupe": {
+  "O": 27,
+  "ENS": 8,
+  "Y": 15,
+  "X": 31,
+  "A": 17,
+  "B": 20,
+  "W": 35,
+  "E": 24,
+  "C": 5,
+  "N": 14,
+  "M": 4,
+  "G": 12
+ }
+}{
+ "Nombre de tentatives par groupe": {
+  "O": 884,
+  "ENS": 129,
+  "Y": 278,
+  "X": 2107,
+  "A": 721,
+  "B": 1195,
+  "W": 3424,
+  "E": 2114,
+  "C": 58,
+  "N": 61,
+  "M": 43,
+  "G": 170
+ }
+}{
+ "Dictionnaire des groupes tries selon leurs nombres total de tentatives": {
+  "W": 3424,
+  "E": 2114,
+  "X": 2107,
+  "B": 1195,
+  "O": 884,
+  "A": 721,
+  "Y": 278,
+  "G": 170,
+  "ENS": 129,
+  "N": 61,
+  "C": 58,
+  "M": 43
+ }
+}{
+ "Nombre moyen de tentatives par etudiant": 52.75471698113208
+}{
+ "Nombre moyen de tentatives par groupe": 932.0
+}{
+ "Les 4 groupes les plus actifs": {
+  "W": 3424,
+  "E": 2114,
+  "X": 2107,
+  "B": 1195
+ }
+}{
+ "Liste d_exercices effectues par groupe": {
+  "O": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)",
+   "EFREI 1A TOP - TP2, EX02 - Intervalle (5ba220a67c4cd1000f02b7d7)",
+   "EFREI 1A TOP - TP2, EX04 - Conjonction, Disjonction, Exclusivit\u00e9 (5ba220a17c4cd1000f02b7cf)",
+   "EFREI 1A TOP - TP2, EX03 - \u00c2ge et sexe (5ba2209f7c4cd1000f02b7cb)",
+   "EFREI 1A TOP - TP2, EX05 - Calculatrice (5ba2209d7c4cd1000f02b7c7)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP3, EX03 - PGCD (5ba21ffa11cd9d001023756e)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)"
+  ],
+  "ENS": [
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP2, EX04 - Conjonction, Disjonction, Exclusivit\u00e9 (5ba220a17c4cd1000f02b7cf)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)"
+  ],
+  "Y": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)",
+   "EFREI 1A TOP - TP2, EX02 - Intervalle (5ba220a67c4cd1000f02b7d7)",
+   "EFREI 1A TOP - TP2, EX07 - \u00c9quations du second degr\u00e9 (5ba2209b7c4cd1000f02b7c3)",
+   "EFREI 1A TOP - TP2, EX03 - \u00c2ge et sexe (5ba2209f7c4cd1000f02b7cb)",
+   "EFREI 1A TOP - TP2, EX04 - Conjonction, Disjonction, Exclusivit\u00e9 (5ba220a17c4cd1000f02b7cf)",
+   "EFREI 1A TOP - TP2, EX05 - Calculatrice (5ba2209d7c4cd1000f02b7c7)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP3, EX03 - PGCD (5ba21ffa11cd9d001023756e)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP3, EX06 - Nombre premier (5ba21ff111cd9d001023755a)",
+   "EFREI 1A TOP - TP3, EX07 - Nombre parfait (5ba21fef11cd9d0010237555)",
+   "EFREI 1A TOP - TP3, EX08 - Affichage d'un triangle (5ba21ff211cd9d001023755e)",
+   "EFREI 1A TOP - TP3, EX09 - Affichage d'une suite de triangles (5ba21ff411cd9d0010237562)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)"
+  ],
+  "X": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)",
+   "EFREI 1A TOP - TP2, EX02 - Intervalle (5ba220a67c4cd1000f02b7d7)",
+   "EFREI 1A TOP - TP2, EX03 - \u00c2ge et sexe (5ba2209f7c4cd1000f02b7cb)",
+   "EFREI 1A TOP - TP2, EX05 - Calculatrice (5ba2209d7c4cd1000f02b7c7)",
+   "EFREI 1A TOP - TP2, EX04 - Conjonction, Disjonction, Exclusivit\u00e9 (5ba220a17c4cd1000f02b7cf)",
+   "EFREI 1A TOP - TP2, EX07 - \u00c9quations du second degr\u00e9 (5ba2209b7c4cd1000f02b7c3)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP3, EX03 - PGCD (5ba21ffa11cd9d001023756e)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP3, EX06 - Nombre premier (5ba21ff111cd9d001023755a)",
+   "EFREI 1A TOP - TP3, EX07 - Nombre parfait (5ba21fef11cd9d0010237555)",
+   "EFREI 1A TOP - TP3, EX08 - Affichage d'un triangle (5ba21ff211cd9d001023755e)",
+   "EFREI 1A TOP - TP3, EX09 - Affichage d'une suite de triangles (5ba21ff411cd9d0010237562)",
+   "EFREI 1A TOP - TP4, EX01 - Fonction puissance (5be8a8ac2b64cd00103b2334)",
+   "EFREI 1A TOP - TP4, EX02 - Calculatrice (5be8a8af2b64cd00103b2338)",
+   "EFREI 1A TOP - TP4, EX04 - Fonction carr\u00e9 (5be8a8b12b64cd00103b233c)",
+   "EFREI 1A TOP - TP4, EX05 - Maximum (5be8a8aa2b64cd00103b2330)",
+   "EFREI 1A TOP - TP4, EX03 - Calculatrice explicative (5be8a8b62b64cd00103b2344)",
+   "EFREI 1A TOP - TP4, EX06 - Moyenne (5be8a8b42b64cd00103b2340)",
+   "EFREI 1A TOP - TP4, EX07 - Ordre alphab\u00e9tique (5be8a8a82b64cd00103b232c)",
+   "EFREI 1A TOP - TP4, EX08 - Compression (5be8a8a52b64cd00103b2327)",
+   "EFREI 1A TOP - TP5, EX04 - Table de multiplication (5bfb23c6d1dfa20011d45d99)",
+   "EFREI 1A TOP - TP5, EX05 - Carr\u00e9 magique (5bfb23cbd1dfa20011d45da1)",
+   "EFREI 1A TOP - TP4, EX09 - Hexadecimal (5bfb23b6d1dfa20011d45d88)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)",
+   "EFREI 1A TOP - TP5, EX03 - Triangle de Pascal (5bfb23c2d1dfa20011d45d90)"
+  ],
+  "A": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP3, EX09 - Affichage d'une suite de triangles (5ba21ff411cd9d0010237562)",
+   "EFREI 1A TOP - TP3, EX08 - Affichage d'un triangle (5ba21ff211cd9d001023755e)",
+   "EFREI 1A TOP - TP3, EX07 - Nombre parfait (5ba21fef11cd9d0010237555)",
+   "EFREI 1A TOP - TP3, EX06 - Nombre premier (5ba21ff111cd9d001023755a)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)",
+   "EFREI 1A TOP - TP3, EX03 - PGCD (5ba21ffa11cd9d001023756e)",
+   "EFREI 1A TOP - TP4, EX02 - Calculatrice (5be8a8af2b64cd00103b2338)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP4, EX01 - Fonction puissance (5be8a8ac2b64cd00103b2334)",
+   "EFREI 1A TOP - TP4, EX04 - Fonction carr\u00e9 (5be8a8b12b64cd00103b233c)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)",
+   "EFREI 1A TOP - TP5, EX03 - Triangle de Pascal (5bfb23c2d1dfa20011d45d90)",
+   "EFREI 1A TOP - TP5, EX04 - Table de multiplication (5bfb23c6d1dfa20011d45d99)",
+   "EFREI 1A TOP - TP5, EX05 - Carr\u00e9 magique (5bfb23cbd1dfa20011d45da1)",
+   "EFREI 1A TOP - TP4, EX09 - Hexadecimal (5bfb23b6d1dfa20011d45d88)",
+   "EFREI 1A TOP - TP4, EX08 - Compression (5be8a8a52b64cd00103b2327)",
+   "EFREI 1A TOP - TP4, EX07 - Ordre alphab\u00e9tique (5be8a8a82b64cd00103b232c)"
+  ],
+  "B": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)",
+   "EFREI 1A TOP - TP2, EX02 - Intervalle (5ba220a67c4cd1000f02b7d7)",
+   "EFREI 1A TOP - TP2, EX03 - \u00c2ge et sexe (5ba2209f7c4cd1000f02b7cb)",
+   "EFREI 1A TOP - TP2, EX04 - Conjonction, Disjonction, Exclusivit\u00e9 (5ba220a17c4cd1000f02b7cf)",
+   "EFREI 1A TOP - TP2, EX05 - Calculatrice (5ba2209d7c4cd1000f02b7c7)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP2, EX07 - \u00c9quations du second degr\u00e9 (5ba2209b7c4cd1000f02b7c3)",
+   "EFREI 1A TOP - TP3, EX03 - PGCD (5ba21ffa11cd9d001023756e)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP3, EX08 - Affichage d'un triangle (5ba21ff211cd9d001023755e)",
+   "EFREI 1A TOP - TP3, EX09 - Affichage d'une suite de triangles (5ba21ff411cd9d0010237562)",
+   "EFREI 1A TOP - TP3, EX06 - Nombre premier (5ba21ff111cd9d001023755a)",
+   "EFREI 1A TOP - TP3, EX07 - Nombre parfait (5ba21fef11cd9d0010237555)",
+   "EFREI 1A TOP - TP4, EX01 - Fonction puissance (5be8a8ac2b64cd00103b2334)",
+   "EFREI 1A TOP - TP4, EX02 - Calculatrice (5be8a8af2b64cd00103b2338)",
+   "EFREI 1A TOP - TP4, EX03 - Calculatrice explicative (5be8a8b62b64cd00103b2344)",
+   "EFREI 1A TOP - TP4, EX04 - Fonction carr\u00e9 (5be8a8b12b64cd00103b233c)",
+   "EFREI 1A TOP - TP4, EX05 - Maximum (5be8a8aa2b64cd00103b2330)",
+   "EFREI 1A TOP - TP4, EX06 - Moyenne (5be8a8b42b64cd00103b2340)",
+   "EFREI 1A TOP - TP4, EX07 - Ordre alphab\u00e9tique (5be8a8a82b64cd00103b232c)",
+   "EFREI 1A TOP - TP4, EX08 - Compression (5be8a8a52b64cd00103b2327)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)",
+   "EFREI 1A TOP - TP5, EX03 - Triangle de Pascal (5bfb23c2d1dfa20011d45d90)",
+   "EFREI 1A TOP - TP5, EX04 - Table de multiplication (5bfb23c6d1dfa20011d45d99)",
+   "EFREI 1A TOP - TP5, EX05 - Carr\u00e9 magique (5bfb23cbd1dfa20011d45da1)",
+   "EFREI 1A TOP - TP4, EX09 - Hexadecimal (5bfb23b6d1dfa20011d45d88)"
+  ],
+  "W": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)",
+   "EFREI 1A TOP - TP2, EX02 - Intervalle (5ba220a67c4cd1000f02b7d7)",
+   "EFREI 1A TOP - TP2, EX03 - \u00c2ge et sexe (5ba2209f7c4cd1000f02b7cb)",
+   "EFREI 1A TOP - TP2, EX04 - Conjonction, Disjonction, Exclusivit\u00e9 (5ba220a17c4cd1000f02b7cf)",
+   "EFREI 1A TOP - TP2, EX05 - Calculatrice (5ba2209d7c4cd1000f02b7c7)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP2, EX07 - \u00c9quations du second degr\u00e9 (5ba2209b7c4cd1000f02b7c3)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP3, EX03 - PGCD (5ba21ffa11cd9d001023756e)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP3, EX06 - Nombre premier (5ba21ff111cd9d001023755a)",
+   "EFREI 1A TOP - TP3, EX07 - Nombre parfait (5ba21fef11cd9d0010237555)",
+   "EFREI 1A TOP - TP3, EX08 - Affichage d'un triangle (5ba21ff211cd9d001023755e)",
+   "EFREI 1A TOP - TP3, EX09 - Affichage d'une suite de triangles (5ba21ff411cd9d0010237562)",
+   "EFREI 1A TOP - TP4, EX01 - Fonction puissance (5be8a8ac2b64cd00103b2334)",
+   "EFREI 1A TOP - TP4, EX02 - Calculatrice (5be8a8af2b64cd00103b2338)",
+   "EFREI 1A TOP - TP4, EX03 - Calculatrice explicative (5be8a8b62b64cd00103b2344)",
+   "EFREI 1A TOP - TP4, EX04 - Fonction carr\u00e9 (5be8a8b12b64cd00103b233c)",
+   "EFREI 1A TOP - TP4, EX05 - Maximum (5be8a8aa2b64cd00103b2330)",
+   "EFREI 1A TOP - TP4, EX06 - Moyenne (5be8a8b42b64cd00103b2340)",
+   "EFREI 1A TOP - TP4, EX07 - Ordre alphab\u00e9tique (5be8a8a82b64cd00103b232c)",
+   "EFREI 1A TOP - TP4, EX08 - Compression (5be8a8a52b64cd00103b2327)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)",
+   "EFREI 1A TOP - TP5, EX04 - Table de multiplication (5bfb23c6d1dfa20011d45d99)",
+   "EFREI 1A TOP - TP5, EX03 - Triangle de Pascal (5bfb23c2d1dfa20011d45d90)",
+   "EFREI 1A TOP - TP5, EX05 - Carr\u00e9 magique (5bfb23cbd1dfa20011d45da1)",
+   "EFREI 1A TOP - TP4, EX09 - Hexadecimal (5bfb23b6d1dfa20011d45d88)"
+  ],
+  "E": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP1, EX06 - Transposition (5ba220aa7c4cd1000f02b7e4)",
+   "EFREI 1A TOP - TP1, EX07 - Fibonacci (5ba220a87c4cd1000f02b7df)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)",
+   "EFREI 1A TOP - TP2, EX02 - Intervalle (5ba220a67c4cd1000f02b7d7)",
+   "EFREI 1A TOP - TP2, EX03 - \u00c2ge et sexe (5ba2209f7c4cd1000f02b7cb)",
+   "EFREI 1A TOP - TP2, EX04 - Conjonction, Disjonction, Exclusivit\u00e9 (5ba220a17c4cd1000f02b7cf)",
+   "EFREI 1A TOP - TP2, EX05 - Calculatrice (5ba2209d7c4cd1000f02b7c7)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP3, EX02 - Nombre secret (5ba21ffc11cd9d0010237572)",
+   "EFREI 1A TOP - TP3, EX03 - PGCD (5ba21ffa11cd9d001023756e)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP3, EX04 - PPCM (5ba21ff711cd9d0010237566)",
+   "EFREI 1A TOP - TP2, EX07 - \u00c9quations du second degr\u00e9 (5ba2209b7c4cd1000f02b7c3)",
+   "EFREI 1A TOP - TP4, EX01 - Fonction puissance (5be8a8ac2b64cd00103b2334)",
+   "EFREI 1A TOP - TP4, EX02 - Calculatrice (5be8a8af2b64cd00103b2338)",
+   "EFREI 1A TOP - TP4, EX04 - Fonction carr\u00e9 (5be8a8b12b64cd00103b233c)",
+   "EFREI 1A TOP - TP4, EX05 - Maximum (5be8a8aa2b64cd00103b2330)",
+   "EFREI 1A TOP - TP4, EX06 - Moyenne (5be8a8b42b64cd00103b2340)",
+   "EFREI 1A TOP - TP4, EX03 - Calculatrice explicative (5be8a8b62b64cd00103b2344)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)",
+   "EFREI 1A TOP - TP5, EX03 - Triangle de Pascal (5bfb23c2d1dfa20011d45d90)",
+   "EFREI 1A TOP - TP4, EX07 - Ordre alphab\u00e9tique (5be8a8a82b64cd00103b232c)",
+   "EFREI 1A TOP - TP3, EX06 - Nombre premier (5ba21ff111cd9d001023755a)",
+   "EFREI 1A TOP - TP3, EX05 - Somme (5ba21ff811cd9d001023756a)",
+   "EFREI 1A TOP - TP3, EX08 - Affichage d'un triangle (5ba21ff211cd9d001023755e)",
+   "EFREI 1A TOP - TP3, EX09 - Affichage d'une suite de triangles (5ba21ff411cd9d0010237562)"
+  ],
+  "C": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP2, EX02 - Intervalle (5ba220a67c4cd1000f02b7d7)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP2, EX07 - \u00c9quations du second degr\u00e9 (5ba2209b7c4cd1000f02b7c3)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)",
+   "EFREI 1A TOP - TP5, EX04 - Table de multiplication (5bfb23c6d1dfa20011d45d99)",
+   "EFREI 1A TOP - TP5, EX05 - Carr\u00e9 magique (5bfb23cbd1dfa20011d45da1)"
+  ],
+  "N": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)"
+  ],
+  "M": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)"
+  ],
+  "G": [
+   "EFREI 1A TOP - TP1, EX01 - Hello World (5ba220b67c4cd1000f02b7f8)",
+   "EFREI 1A TOP - TP1, EX02 - Affectation (5ba220b47c4cd1000f02b7f4)",
+   "EFREI 1A TOP - TP1, EX03 - Saisie (5ba220b27c4cd1000f02b7f0)",
+   "EFREI 1A TOP - TP1, EX04 - \u00c9valuation d'une expression et affectation du r\u00e9sultat (5ba220b07c4cd1000f02b7ec)",
+   "EFREI 1A TOP - TP3, EX01 - Menu principal d'un programme (5ba21ffe11cd9d0010237576)",
+   "EFREI 1A TOP - TP2, EX06 - Jeu de la vie (5ba220997c4cd1000f02b7be)",
+   "EFREI 1A TOP - TP5, EX01 - Calcul du nombre d'occurences (5bfb23c8d1dfa20011d45d9d)",
+   "EFREI 1A TOP - TP5, EX03 - Triangle de Pascal (5bfb23c2d1dfa20011d45d90)",
+   "EFREI 1A TOP - TP5, EX02 - Moyenne sur plusieurs s\u00e9ries de nombres (5bfb23c4d1dfa20011d45d95)",
+   "EFREI 1A TOP - TP4, EX01 - Fonction puissance (5be8a8ac2b64cd00103b2334)",
+   "EFREI 1A TOP - TP5, EX04 - Table de multiplication (5bfb23c6d1dfa20011d45d99)",
+   "EFREI 1A TOP - TP4, EX08 - Compression (5be8a8a52b64cd00103b2327)",
+   "EFREI 1A TOP - TP4, EX07 - Ordre alphab\u00e9tique (5be8a8a82b64cd00103b232c)",
+   "EFREI 1A TOP - TP4, EX05 - Maximum (5be8a8aa2b64cd00103b2330)",
+   "EFREI 1A TOP - TP1, EX05 - Affectations successives (5ba220ac7c4cd1000f02b7e8)",
+   "EFREI 1A TOP - TP2, EX01 - Comparaisons (5ba220a37c4cd1000f02b7d3)"
+  ]
+ }
+}{
+ "Exercices jamais reussis": {}
+}{
+ "Nombre de tentatives total sur les exercices jamais reussis": 0
+}{
+ "Tentatives par etudiant sur chaque exercice jamais reussis": {}
+}{
+ "Temps moyen de reussite par exercice": {
+  "TP1-EX01": "1jours,23heures,56minutes,24secondes",
+  "TP1-EX02": "0jours,9heures,22minutes,49secondes",
+  "TP1-EX03": "0jours,21heures,28minutes,5secondes",
+  "TP1-EX04": "0jours,19heures,38minutes,40secondes",
+  "TP1-EX05": "3jours,4heures,27minutes,47secondes",
+  "TP1-EX06": "1jours,14heures,44minutes,42secondes",
+  "TP1-EX07": "1jours,2heures,45minutes,38secondes",
+  "TP2-EX01": "1jours,23heures,35minutes,22secondes",
+  "TP2-EX02": "3jours,9heures,25minutes,25secondes",
+  "TP2-EX03": "5jours,5heures,45minutes,0secondes",
+  "TP2-EX04": "1jours,8heures,47minutes,43secondes",
+  "TP2-EX05": "2jours,8heures,3minutes,8secondes",
+  "TP2-EX06": "0jours,0heures,22minutes,27secondes",
+  "TP2-EX07": "0jours,2heures,12minutes,50secondes",
+  "TP3-EX01": "1jours,22heures,40minutes,53secondes",
+  "TP3-EX02": "2jours,12heures,37minutes,36secondes",
+  "TP3-EX03": "0jours,21heures,33minutes,6secondes",
+  "TP3-EX04": "2jours,13heures,9minutes,21secondes",
+  "TP3-EX05": "0jours,0heures,10minutes,55secondes",
+  "TP3-EX06": "7jours,0heures,51minutes,44secondes",
+  "TP3-EX07": "0jours,0heures,0minutes,20secondes",
+  "TP3-EX08": "0jours,0heures,4minutes,0secondes",
+  "TP3-EX09": "0jours,0heures,6minutes,28secondes",
+  "TP4-EX01": "2jours,16heures,50minutes,9secondes",
+  "TP4-EX02": "7jours,12heures,25minutes,24secondes",
+  "TP4-EX03": "2jours,9heures,26minutes,53secondes",
+  "TP4-EX04": "4jours,7heures,37minutes,13secondes",
+  "TP4-EX05": "0jours,15heures,22minutes,42secondes",
+  "TP4-EX06": "1jours,1heures,9minutes,8secondes",
+  "TP4-EX07": "3jours,7heures,46minutes,51secondes",
+  "TP4-EX08": "2jours,2heures,41minutes,14secondes",
+  "TP4-EX09": "0jours,5heures,24minutes,22secondes",
+  "TP5-EX01": "2jours,4heures,4minutes,43secondes",
+  "TP5-EX02": "1jours,8heures,27minutes,23secondes",
+  "TP5-EX03": "6jours,0heures,11minutes,5secondes",
+  "TP5-EX04": "0jours,18heures,29minutes,23secondes",
+  "TP5-EX05": "0jours,0heures,51minutes,23secondes"
+ }
+}{
+ "Exercices reussis par ordre croissant du temps moyen de reussite": {
+  "TP3-EX07": "0jours,0heures,0minutes,20secondes",
+  "TP3-EX08": "0jours,0heures,4minutes,0secondes",
+  "TP3-EX09": "0jours,0heures,6minutes,28secondes",
+  "TP3-EX05": "0jours,0heures,10minutes,55secondes",
+  "TP2-EX06": "0jours,0heures,22minutes,27secondes",
+  "TP5-EX05": "0jours,0heures,51minutes,23secondes",
+  "TP2-EX07": "0jours,2heures,12minutes,50secondes",
+  "TP4-EX09": "0jours,5heures,24minutes,22secondes",
+  "TP1-EX02": "0jours,9heures,22minutes,49secondes",
+  "TP4-EX05": "0jours,15heures,22minutes,42secondes",
+  "TP5-EX04": "0jours,18heures,29minutes,23secondes",
+  "TP1-EX04": "0jours,19heures,38minutes,40secondes",
+  "TP1-EX03": "0jours,21heures,28minutes,5secondes",
+  "TP3-EX03": "0jours,21heures,33minutes,6secondes",
+  "TP4-EX06": "1jours,1heures,9minutes,8secondes",
+  "TP1-EX07": "1jours,2heures,45minutes,38secondes",
+  "TP5-EX02": "1jours,8heures,27minutes,23secondes",
+  "TP2-EX04": "1jours,8heures,47minutes,43secondes",
+  "TP1-EX06": "1jours,14heures,44minutes,42secondes",
+  "TP3-EX01": "1jours,22heures,40minutes,53secondes",
+  "TP2-EX01": "1jours,23heures,35minutes,22secondes",
+  "TP1-EX01": "1jours,23heures,56minutes,24secondes",
+  "TP4-EX08": "2jours,2heures,41minutes,14secondes",
+  "TP5-EX01": "2jours,4heures,4minutes,43secondes",
+  "TP2-EX05": "2jours,8heures,3minutes,8secondes",
+  "TP4-EX03": "2jours,9heures,26minutes,53secondes",
+  "TP3-EX02": "2jours,12heures,37minutes,36secondes",
+  "TP3-EX04": "2jours,13heures,9minutes,21secondes",
+  "TP4-EX01": "2jours,16heures,50minutes,9secondes",
+  "TP1-EX05": "3jours,4heures,27minutes,47secondes",
+  "TP4-EX07": "3jours,7heures,46minutes,51secondes",
+  "TP2-EX02": "3jours,9heures,25minutes,25secondes",
+  "TP4-EX04": "4jours,7heures,37minutes,13secondes",
+  "TP2-EX03": "5jours,5heures,45minutes,0secondes",
+  "TP5-EX03": "6jours,0heures,11minutes,5secondes",
+  "TP3-EX06": "7jours,0heures,51minutes,44secondes",
+  "TP4-EX02": "7jours,12heures,25minutes,24secondes"
+ }
+}{
+ "Nombre etudiants ayant reussi des exercices en un seul essai": 100
+}{
+ "Jours ou l_outil a ete le plus utilise": {
+  "Thursday": 6055,
+  "Wednesday": 2237,
+  "Monday": 1333,
+  "Tuesday": 1090,
+  "Saturday": 229,
+  "Sunday": 200,
+  "Friday": 40
+ }
+}{
+ "Horaires ou l_outil a ete le plus utilise": {
+  "17h": 2730,
+  "16h": 2480,
+  "18h": 2046,
+  "19h": 1157,
+  "14h": 379,
+  "15h": 350,
+  "10h": 305,
+  "13h": 305,
+  "12h": 294,
+  "11h": 291,
+  "9h": 190,
+  "22h": 180,
+  "21h": 160,
+  "8h": 118,
+  "23h": 97,
+  "20h": 55,
+  "0h": 36,
+  "7h": 6,
+  "1h": 3,
+  "2h": 2
+ }
+}{
+ "horaire ou l_outil a ete le plus utilise pour chaque jour de la semaine": {
+  "Monday": "14h",
+  "Tuesday": "10h",
+  "Wednesday": "17h",
+  "Thursday": "16h",
+  "Friday": "18h",
+  "Saturday": "18h",
+  "Sunday": "17h"
+ }
+}{
+ "Pic d_utilisation en periode d_examen par ordre decroissant du nbre de tentatives": {
+  "25/10/2018": 83,
+  "22/10/2018": 67,
+  "13/12/2018": 55,
+  "12/12/2018": 50,
+  "11/12/2018": 36,
+  "23/10/2018": 26,
+  "24/10/2018": 16,
+  "10/12/2018": 15
+ }
+}{
+ "horaire ou l_outil a ete le plus utilise pour chaque jour en periode d_examen par ordre decroissant du nbre de tentatives": {
+  "25/10/2018": {
+   "Total": 83,
+   "13h": 18,
+   "8h": 15,
+   "16h": 10,
+   "0h": 8,
+   "9h": 8,
+   "12h": 8,
+   "19h": 6,
+   "22h": 5,
+   "11h": 3,
+   "10h": 2
+  },
+  "22/10/2018": {
+   "Total": 67,
+   "17h": 27,
+   "19h": 18,
+   "22h": 9,
+   "18h": 6,
+   "16h": 5,
+   "14h": 1,
+   "23h": 1
+  },
+  "13/12/2018": {
+   "Total": 55,
+   "13h": 17,
+   "10h": 12,
+   "9h": 6,
+   "11h": 6,
+   "12h": 6,
+   "14h": 5,
+   "17h": 2,
+   "16h": 1
+  },
+  "12/12/2018": {
+   "Total": 50,
+   "22h": 19,
+   "21h": 13,
+   "23h": 7,
+   "14h": 3,
+   "8h": 2,
+   "10h": 2,
+   "11h": 2,
+   "16h": 2
+  },
+  "11/12/2018": {
+   "Total": 36,
+   "21h": 12,
+   "17h": 11,
+   "18h": 6,
+   "23h": 6,
+   "19h": 1
+  },
+  "23/10/2018": {
+   "Total": 26,
+   "15h": 10,
+   "12h": 7,
+   "17h": 4,
+   "19h": 3,
+   "18h": 2
+  },
+  "24/10/2018": {
+   "Total": 16,
+   "14h": 8,
+   "23h": 5,
+   "16h": 1,
+   "18h": 1,
+   "19h": 1
+  },
+  "10/12/2018": {
+   "Total": 15,
+   "20h": 8,
+   "22h": 6,
+   "2h": 1
+  }
+ }
+}{
+ "Jour ou l_outil a ete le plus utilise": {
+  "4/10/2018": 2775
+ }
+}{
+ "Etudiant qui a le plus utilise l_outils": {
+  "59": 441
+ }
+}{
+ "Etudiant qui a comptabilise le plus de succes ": {
+  "103": 48
+ }
+}{
+ "Erreur de syntaxe la plus courante et nombre d_occurence": {
+  "Exception: Aucun affichage (print) ne doit \u00eatre utilis\u00e9 !": 983
+ }
+}
